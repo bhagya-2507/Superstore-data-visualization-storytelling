@@ -1,4 +1,4 @@
-# Superstore Data Visualization & Storytelling
+# Superstore Data visualization & Storytelling
 
 ## 📊 Project Overview
 
@@ -69,9 +69,13 @@ The final page summarizes the major business insights and provides recommendatio
 
 ## 📂 Project Files
 
-- `Superstore_Data_Visualization_Storytelling.pdf` — Final Power BI report
-- `screenshots/` — Dashboard page screenshots
+- `Superstore_Data_visualization_Storytelling.pdf` — Final Power BI report
+- `page1-business-overview.png` — Business Overview
+- `page2-sales-profit-trend.png` — Sales & Profit Trend
+- `page3-category-analysis.png` — Category & Sub-Category Analysis
+- `page4-insights-recommendations.png` — Insights & Recommendations
 
 ## 👩‍💻 Author
+Bhagya
 
 Bhagya
