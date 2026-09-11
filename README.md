@@ -70,12 +70,12 @@ The final page summarizes the major business insights and provides recommendatio
 ## 📂 Project Files
 
 - `Superstore_Data_visualization_Storytelling.pdf` — Final Power BI report
+- `Superstore_Data_visualization_Storytelling.pbix` — Final Power BI source file
 - `page1-business-overview.png` — Business Overview
 - `page2-sales-profit-trend.png` — Sales & Profit Trend
 - `page3-category-analysis.png` — Category & Sub-Category Analysis
 - `page4-insights-recommendations.png` — Insights & Recommendations
 
 ## 👩‍💻 Author
-Bhagya
 
 Bhagya
